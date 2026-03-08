@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎙️ AI Speech-to-Text Converter
+# 🎙️ Speech-to-Text Converter AI
 
 ### Convert Audio & Video Files into Text using AI
 
@@ -190,3 +190,4 @@ https://github.com/Chethumalli
 ⭐ If you like this project, consider giving it a **star**!
 
 </div>
+
