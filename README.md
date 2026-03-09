@@ -49,7 +49,7 @@ mkv
 
 ```
  -----------------------------------------------------
-|            🎙 AI Speech to Text Converter           |
+|            🎙 Speech to Text Converter AI          |
 |----------------------------------------------------|
 | Upload File Section      | Extracted Text Section  |
 |                          |                         |
@@ -190,4 +190,5 @@ https://github.com/Chethumalli
 ⭐ If you like this project, consider giving it a **star**!
 
 </div>
+
 
