@@ -83,7 +83,7 @@ mkv
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Chethumalli/AI-Speech-to-Text-Converter.git
+git clone https://github.com/Chethumalli/Speech-to-Text-Converter-AI.git
 cd AI-Speech-to-Text-Converter
 ```
 
@@ -142,7 +142,7 @@ http://localhost:8501
 # 📁 Project Structure
 
 ```
-AI-Speech-to-Text-Converter
+Speech-to-Text-Converter-AI
 │
 ├── app.py
 ├── requirements.txt
@@ -190,5 +190,6 @@ https://github.com/Chethumalli
 ⭐ If you like this project, consider giving it a **star**!
 
 </div>
+
 
 
