@@ -158,17 +158,6 @@ Speech-to-Text-Converter-AI
 - 🎤 Real-time speech transcription
 - 📊 Audio waveform visualization
 - ☁️ Cloud deployment
-
----
-
-
-```
-1. Fork the repository
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Open a Pull Request
-```
 ---
 
 # 👨‍💻 Author
@@ -187,6 +176,7 @@ https://github.com/Chethumalli
 ⭐ If you like this project, consider giving it a **star**!
 
 </div>
+
 
 
 
