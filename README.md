@@ -161,9 +161,6 @@ Speech-to-Text-Converter-AI
 
 ---
 
-# 🤝 Contributing
-
-Contributions are welcome!
 
 ```
 1. Fork the repository
@@ -190,6 +187,7 @@ https://github.com/Chethumalli
 ⭐ If you like this project, consider giving it a **star**!
 
 </div>
+
 
 
 
